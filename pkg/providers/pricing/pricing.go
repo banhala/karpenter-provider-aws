@@ -19,6 +19,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"knative.dev/pkg/logging"
 	"net/http"
 	"strconv"
 	"strings"
