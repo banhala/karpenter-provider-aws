@@ -116,7 +116,7 @@ func NewDefaultProvider(_ context.Context, pricing pricingiface.PricingAPI, ec2A
 		ec2:                    ec2Api,
 		pricing:                pricing,
 		cm:                     pretty.NewChangeMonitor(),
-		extraHourlyCostPerHost: float64( /* DD Infrastructure (Pro) */ 18+ /* DD APM (Enterprise) */ 36) / 30 / 24,
+		extraHourlyCostPerHost: float64( /* DD Infrastructure (Pro) */ 18+ /* DD APM */ 36) / 30 / 24,
 	}
 	// sets the pricing data from the static default state for the provider
 	p.Reset()
