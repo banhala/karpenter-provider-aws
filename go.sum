@@ -64,8 +64,8 @@ github.com/awslabs/operatorpkg v0.0.0-20250909182303-e8e550b6f339 h1:p4oSlQ9IaT7
 github.com/awslabs/operatorpkg v0.0.0-20250909182303-e8e550b6f339/go.mod h1:tNmCf0qIjaGbODGbm3DM8GIKBUvvxM7iW3KHbpSnVgw=
 github.com/awslabs/operatorpkg/aws v0.0.0-20250414225955-b47cd315ffe9 h1:Li3ZDz/k5Ob9gRzBvZ5qP3zaE183FWaBTYKayURTub8=
 github.com/awslabs/operatorpkg/aws v0.0.0-20250414225955-b47cd315ffe9/go.mod h1:XuupixySxAZwqT/PRxIce7JqAI8NaKUer/TIdm3OMA4=
-github.com/banhala/karpenter v0.0.0-20260121094000-a7b416c19f37 h1:xR3paZOpnjX7LtxqRn7X+deR3pk54UbTahnPE/nwpQ8=
-github.com/banhala/karpenter v0.0.0-20260121094000-a7b416c19f37/go.mod h1:fqk7MeJYRNfMPcOZGv/BtsPR/Hq170J4D2GoU3IVHYA=
+github.com/banhala/karpenter v0.0.0-20260122005805-ce26ed558639 h1:Rrgb4k5Qo0Xa2+nT/hae5ePZCxkfKBeCRwZIm5Q2nPM=
+github.com/banhala/karpenter v0.0.0-20260122005805-ce26ed558639/go.mod h1:fqk7MeJYRNfMPcOZGv/BtsPR/Hq170J4D2GoU3IVHYA=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
